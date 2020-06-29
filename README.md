@@ -14,8 +14,11 @@ Language Certificate:
 ![Python Testing and Debugging](https://github.com/SrilakshmiSripathi/My-Certificates/blob/master/Minor/Coursera%206SCU55P6GXJB.pdf)
 
 Command-line Certificate:
-![CMD]https://github.com/SrilakshmiSripathi/My-Certificates/blob/master/Minor/Coursera%20ZG898RVG76C5.pdf)
+
+![CMD](https://github.com/SrilakshmiSripathi/My-Certificates/blob/master/Minor/Coursera%20ZG898RVG76C5.pdf)
 
 HTML:
+
 ![Intro to HTML](https://github.com/SrilakshmiSripathi/My-Certificates/blob/master/Minor/Coursera%20FG9GYF83E5JE.pdf)
+
 ![HTML and CSS](https://github.com/SrilakshmiSripathi/My-Certificates/blob/master/Minor/Coursera%20VRRCTDCWAB7A.pdf)
