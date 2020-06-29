@@ -1,5 +1,5 @@
 # My-Certificates
-A glimpse of all the certificates I earned up to now.  No Code in here. Including all certificated I earned, from KB to TB value.
+A glimpse of all the certificates I earned up to now.  No Code in here. Including all certificated valued from KB to TB.
 
 ![DevOps](https://github.com/SrilakshmiSripathi/My-Certificates/blob/master/CertificateOfCompletion_DevOps%20for%20Data%20Scientists.pdf)
 
